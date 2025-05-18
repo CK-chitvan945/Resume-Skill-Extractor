@@ -1,0 +1,14 @@
+python
+react
+javascript
+html
+css
+sql
+mongodb
+aws
+docker
+linux
+flask
+django
+fastapi
+git

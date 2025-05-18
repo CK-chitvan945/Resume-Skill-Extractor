@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+input, button {
+  margin-top: 1rem;
+  padding: 10px;
+}
+
+button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.results {
+  margin-top: 2rem;
+}
+
+.tag {
+  display: inline-block;
+  background: #4CAF50;
+  color: white;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 15px;
+}
