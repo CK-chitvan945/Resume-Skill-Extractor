@@ -16,7 +16,7 @@ function App() {
 
     try {
       //const res = await axios.post("http://localhost:8000/extract", formData);
-      const res = await axios.post("resume-skill-extractor-production-66dd.up.railway.app/extract", formData);
+      const res = await axios.post("backend-66dd.up.railway.app/extract", formData);
       setSkills(res.data.skills);
     } catch (err) {
       alert("Error: " + err.message);
