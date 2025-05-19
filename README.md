@@ -11,7 +11,7 @@ An AI-powered web tool that allows users to upload resumes and get instant extra
 - 🏷️ Displays extracted skills as clean **tags**
 - 💡 Fast, lightweight UI built with **React**
 - ⚙️ Backend API built using **FastAPI** and **PyMuPDF**
-- ☁️ Deployed using **Netlify (frontend)** and **Railway (backend)**
+- ☁️ Deployed using **Railway (backend and frontend)**
 
 ---
 
@@ -29,7 +29,6 @@ An AI-powered web tool that allows users to upload resumes and get instant extra
 - [CORS Middleware](https://fastapi.tiangolo.com/tutorial/cors/) for frontend-backend connection
 
 ### Deployment
-- 💻 Frontend: [Netlify](https://www.netlify.com/)
-- 🔗 Backend: [Railway](https://railway.app/)
+- 💻 Backend: [Railway](https://railway.app/)
 
 ---
